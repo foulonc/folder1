@@ -10,3 +10,5 @@ test change
 ## Change again
 
 This is another change!
+
+Bert Baert is my favorite manager.
