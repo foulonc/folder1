@@ -12,3 +12,6 @@ test change
 This is another change!
 
 Bert Baert is my favorite manager.
+te
+s
+t
